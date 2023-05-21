@@ -6,52 +6,54 @@
 [![Instagram](./img/instagram-light.svg)](https://instagram.com/devidiamonds#gh-light-mode-only)
 [![Instagram](./img/instagram-dark.svg)](https://instagram.com/devidiamonds#gh-dark-mode-only)
 
+Welcome to my GitHub profile! I'm Roland, a passionate software developer with expertise in various programming languages and tools. I enjoy exploring new technologies and building innovative solutions. Let's connect on LinkedIn or Instagram to stay updated with my latest projects and activities.
+
 ## Languages and Tools
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />][]
-[<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />][]
-[<img align="left" alt="C" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="padding-right:10px;" />][]
-[<img align="left" alt="Canva" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/canva/canva-original.svg" style="padding-right:10px;" />][]
-[<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />][]
-[<img align="left" alt="C#" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" style="padding-right:10px;" />][]
-[<img align="left" alt="Github" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" style="padding-right:10px;" />][]
-[<img align="left" alt="Markdown" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/markdown/markdown-original.svg" style="padding-right:10px;" />][]
-[<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="padding-right:10px;" />][]
-[<img align="left" alt="Polygon" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/polygon/polygon-original.svg" style="padding-right:10px;" />][]
-[<img align="left" alt="Solidity" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/solidity/solidity-original.svg" style="padding-right:10px;" />][]
-[<img align="left" alt="Visualstudio" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />][]
-[<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />][]
-[<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />][]
+Here are some of the languages and tools I work with:
 
-<br />
-<br />
+- Visual Studio Code
+- HTML5
+- C
+- Canva
+- JavaScript
+- C#
+- GitHub
+- Markdown
+- Python
+- Polygon
+- Solidity
+- Visual Studio
+- MySQL
+- Git
+
+Feel free to explore my repositories to see the projects I've worked on using these technologies.
 
 ---
 
-## 📺 Latest YouTube Videos
+## Latest YouTube Videos
 
+Stay tuned for my latest YouTube videos where I share insights, tutorials, and demos related to software development. Subscribe to my channel to receive updates whenever a new video is released.
 
+## Latest Blog Posts
 
-## 📕 Latest Blog Posts
+I regularly write blog posts covering various topics related to programming, software development, and technology. Check out my latest articles to learn something new or gain insights into different aspects of the industry.
 
+---
 
+## Recent GitHub Activity
 
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
-  
-<!--START_SECTION:activity-->
+Stay updated with my recent GitHub activity, including commits, pull requests, and contributions to open-source projects. Feel free to explore the details of my recent work.
 
-</details>
+## GitHub Stats
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
+Get a snapshot of my GitHub statistics, including the number of repositories, followers, and contributions. Dive into the details to see my activity over time and get a sense of my coding journey.
 
-  <img align="left" alt="RolandDivine's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=RolandDivine&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+---
 
-</details>
+Connect with me on social media platforms:
 
-[BSCscanTest]: https://testnet.bscscan.com/address/0xd0dF55cDD644800293C54c107aaD87B6e08d1FAA
-[twitter]: https://twitter.com/RolandDivine2
-[youtube]: https://www.youtube.com/channel/UC4PPTtfTZVQZD-OPVKW_YQw
-[instagram]: https://instagram.com/devidiamonds
-[linkedin]: https://www.linkedin.com/in/roland-divine-ogbaji
+- [LinkedIn](https://www.linkedin.com/in/roland-divine-ogbaji-447224194)
+- [Instagram](https://instagram.com/devidiamonds)
+
+Let's collaborate and create amazing software together!
